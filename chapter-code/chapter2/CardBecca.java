@@ -72,6 +72,7 @@ public class CardBecca
     public static void main(String[] args) {
         CardBecca cardBecca = new CardBecca(true, true, false, true, true, true);
         System.out.println(cardBecca.toString());
+        System.out.println("test");
 
     }
 }
